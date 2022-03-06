@@ -1,12 +1,12 @@
 # Study-Buddies  - *Buddy Studies*
 
-**Buddy Studies** is a website that helps you connect with soemone you preffer to study or network with. Create a profile and eneter your academic details alng with prefrences.
-Then select your study budy and connect with them.
+**Buddy Studies** is a website that helps you connect with someone you prefer to study or network with. Create a profile and enter your academic details along with preferences.
+Then select your study buddy and connect with them.
 
 ## Functionality
 * [x] Matches based on major.
 * [x] Matches based on classes. 
-* [x] Matches based on prefernces. 
+* [x] Matches based on preferences. 
 * [x] Messaging system works.
 
 Submitted by: **Axel Siliezar, Lauren Hur, Rodrigo Martinez, Vybavnag Kandasamy**
