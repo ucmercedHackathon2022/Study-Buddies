@@ -15,6 +15,10 @@ Time spent: **30** hours spent in total
 
 Link to project: (https://github.com/ucmercedHackathon2022/Study-Buddies/new/main?readme=1)
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
 ![](http://g.recordit.co/PfkTdJch4v.gif)
 
 ## License 
